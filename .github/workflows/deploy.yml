@@ -1,0 +1,9 @@
+GitHub Repository
+       │
+       ├── index.html       ← Step 1
+       │
+       ├── Dockerfile       ← Step 2
+       │
+       └── .github/
+            └── workflows/
+                 └── deploy.yml  ← Step 3
